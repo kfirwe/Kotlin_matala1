@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Matala1</string>
+    <style name="TicTacToeButton">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
 </resources>
